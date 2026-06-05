@@ -1,9 +1,10 @@
 # Hi, I'm Diya Kharb 👋
 
-Python Engineer focused on backend systems, AI applications, and developer tooling.
+Python Engineer | Backend & AI Systems
 
-Founder @ Ethyer Technologies Pvt. Ltd.  
-B.Tech Computer Science @ UPES
+Building AI applications, developer tools, and scalable backend systems.
+
+Founder @ Ethyer Technologies • B.Tech CSE @ UPES
 
 ---
 
