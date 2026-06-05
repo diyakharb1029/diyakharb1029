@@ -1,4 +1,4 @@
-# Hi, I'm Abhi Kharb 👋
+# Hi, I'm Diya Kharb 👋
 
 Python Engineer focused on backend systems, AI applications, and developer tooling.
 
@@ -7,7 +7,7 @@ B.Tech Computer Science @ UPES
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Backend Engineering
 - AI Applications
@@ -17,7 +17,7 @@ B.Tech Computer Science @ UPES
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -53,7 +53,7 @@ B.Tech Computer Science @ UPES
 
 ---
 
-## 📌 Recent Work
+## Recent Work
 
 ### Better Alarm Clock Assignment
 - Production-quality Python CLI application
@@ -73,7 +73,7 @@ Personal AI operating system being developed under Ethyer, focused on:
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### Better Alarm Clock Assignment
 Engineering-focused Python application with testing, documentation, architecture decisions, and AI workflow transparency.
@@ -92,7 +92,7 @@ Secure file storage platform focused on privacy, encryption, and modern web arch
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Backend Engineering
 - Artificial Intelligence
@@ -103,7 +103,7 @@ Secure file storage platform focused on privacy, encryption, and modern web arch
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/diya-kharb-163791244
 - GitHub: github.com/diyakharb1029
